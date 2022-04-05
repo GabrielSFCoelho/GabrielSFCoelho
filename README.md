@@ -1,4 +1,4 @@
-## Oiii eu sou o Gabriel Coelho
+## Oii! eu sou o Gabriel Coelho
 <div align="center">
   <a href="https://github.com/GabrielSFCoelho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GAbrielSFCoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
