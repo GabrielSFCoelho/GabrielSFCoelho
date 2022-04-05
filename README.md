@@ -1,5 +1,5 @@
 ## Oii! eu sou o Gabriel Coelho
-# Sou estudante de ADS 2°periodo
+### Sou estudante de ADS 2°periodo
 <div align="center">
   <a href="https://github.com/GabrielSFCoelho">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GAbrielSFCoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
