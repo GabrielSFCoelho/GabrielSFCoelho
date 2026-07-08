@@ -1,5 +1,5 @@
 ## Oii! eu sou o Gabriel Coelho
-### Formado em Análise e desenbvolvimento de sistemas
+### Formado em Análise e desenvolvimento de sistemas
 ### Pós Graduado em Cyber Segurança, Analise de Dados e Inteligencia artificial
   ##
  
